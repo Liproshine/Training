@@ -1,0 +1,15 @@
+Python Course Topics
+1. Introduction to Python
+2. Variables, Data Types, and Operators
+3. Strings and String Operations
+4. Control Structures: Conditionals
+5. Loops
+6. Lists and List Operations
+7. Tuples, Sets, and Dictionaries
+8. Functions
+9. Modules and Packages
+10. File Handling
+11. Exception Handling
+12. Introduction to Object-Oriented Programming (OOP)
+13. Working with Libraries
+14. Final Project and Review
